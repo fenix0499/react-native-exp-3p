@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "99970409277",
+    "project_id": "exp3-c90e0",
+    "storage_bucket": "exp3-c90e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99970409277:android:5a7c08322baa8e42b79b54",
+        "android_client_info": {
+          "package_name": "com.drawing_app_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99970409277-l3uk76v9dirni6p0d7qrf98oab6bkicp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ-Q3AGTB_atMdV1CZQVAMTjcfk2AM1M4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99970409277-l3uk76v9dirni6p0d7qrf98oab6bkicp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
